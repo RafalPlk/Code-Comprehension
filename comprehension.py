@@ -1,3 +1,10 @@
+'''This program takes user input as an integer and compare it with the one that was radomly created,
+   if two integers are the same program exits, if those two numbers are not equal user can input another numbers up to six times,
+   program provide hints if the number should be higher or lower.'''
+
+
+
+
 import random # importing external module - in this case - a collection of functions responsible for number generation
 
 guesses_taken = 0 # variable guess_taken is set to 0
